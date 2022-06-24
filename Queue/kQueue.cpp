@@ -98,3 +98,12 @@ int main() {
 
     return 0;
 }
+
+/* 
+10
+20
+15
+25
+Queue is empty
+-1
+*/
