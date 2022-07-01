@@ -100,11 +100,13 @@ int main() {
 }
 
 /* 
-output: 
+output are: 
 10
 20
 15
 25
 Queue is empty
 -1
+
+Time Complexity - O(n)
 */
